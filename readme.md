@@ -20,7 +20,7 @@ cmake ..
 make
 ```
 
-# Om het programma te gebruiker
+# Om het programma te gebruiken
 
 ```bash
 ./magic_tool
